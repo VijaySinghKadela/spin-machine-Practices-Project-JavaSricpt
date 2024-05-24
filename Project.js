@@ -130,7 +130,7 @@ const spin = () =>{
       if(allSame){
         winnings += bet * SYMBOLS_VALUES[symbols[0]];
       }
-      return getWinnings
+      return getWinnings;
   }
 
 const game = () => {
